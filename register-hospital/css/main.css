@@ -451,7 +451,7 @@ input {
 
 .card-3 .card-heading {
   background: url("../images/bg-heading-03.png") center/cover no-repeat;
-  background-size: 100%;
+  background-size: 86%;
   
   background-position-x:26%;
   display: table-cell;
